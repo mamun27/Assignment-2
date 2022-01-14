@@ -213,7 +213,7 @@ nav {
 }
 
 .form h2 {
-    color: #3A3A3A;
+    color: blue;
 }
 
 .form input, button {
@@ -412,7 +412,7 @@ footer {
 
     /* join-us query */
     .form {
-        width: 60%;
+        width: 50%;
     };
 
 }
